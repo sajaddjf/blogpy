@@ -1,0 +1,8 @@
+# database
+db.sqlite3
+
+# app migrations
+blogpy/migrations
+
+# pycache
+__pycache__
